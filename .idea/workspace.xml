@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/function/FitnessExampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <state relative-caret-position="555">
+              <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -177,12 +177,12 @@
       <workItem from="1580041798060" duration="816000" />
       <workItem from="1580105223799" duration="19000" />
       <workItem from="1580105265933" duration="8000" />
-      <workItem from="1580112225380" duration="417000" />
+      <workItem from="1580112225380" duration="658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1260000" />
+    <option name="totallyTimeSpent" value="1501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -241,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/function/FitnessExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        <state relative-caret-position="555">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
         </state>
       </provider>
     </entry>
